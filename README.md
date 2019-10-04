@@ -2,7 +2,7 @@
 
 Getting familiar with basic concepts of react-router-dom, an interface where the user can use a navbar to see various ascii animals.
 
-**Concepts Explored:**
+**Concepts Explored:** 
 
 - Using react-router-dom to set up basic single level navbar
 - Using BrowserRouter, Nav, and NavLink components from library
